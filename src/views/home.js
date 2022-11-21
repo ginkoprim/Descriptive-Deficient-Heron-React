@@ -73,6 +73,9 @@ const Home = (props) => {
       </div>
       <div className="home-container3"></div>
       <div className="home-container4"></div>
+      <div className="home-container5"></div>
+      <div className="home-container6"></div>
+      <div className="home-container7"></div>
     </div>
   )
 }
